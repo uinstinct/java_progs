@@ -20,3 +20,9 @@ Compile the program using `javac <my_program.java>`.
 A class will be created in the same directory. (It can be named as `Program.class`)
 
 Then run the program using `java Program`.
+
+<a href="https://ibb.co/FV4ZYr1"><img src="https://i.ibb.co/8cgvxCw/image.png" alt="image" border="0"></a>
+
+**SET PRESERVE INDENTATION TO OFF**
+
+**DON'T DO IN RESIZED MODE**
